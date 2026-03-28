@@ -1,6 +1,6 @@
 ![Codebreaker Challenge 2020 Solutions Thumbnail](images/thumbnail.png)
 
-These are my solutions to the 2020 [NSA Codebreaker Challenge](https://codebreaker.ltsnet.net). This year they took a phased approach, releasing a second set of challenges about a month before the end of the competition. As the tasks ramp up in difficulty, the write-ups become less of a walkthrough and more of an explanation. I spent many hours on some of these problems and found it difficult to compress my process into something digestable. However, all of my code is available and you can ask any questions you might have in [this repo's Discussion page](https://github.com/luker983/nsa-codebreaker-2020/discussions). 
+These are my solutions to the 2020 [NSA Codebreaker Challenge](https://practice.icoa2026.au/challenges). This year they took a phased approach, releasing a second set of challenges about a month before the end of the competition. As the tasks ramp up in difficulty, the write-ups become less of a walkthrough and more of an explanation. I spent many hours on some of these problems and found it difficult to compress my process into something digestable. However, all of my code is available and you can ask any questions you might have in [Discussion Page](https://github.com/Derderderr/ICOA-2026-write-ups/discussions). 
 
 ## Write-Ups
 <div align="center">
@@ -27,21 +27,7 @@ These are my solutions to the 2020 [NSA Codebreaker Challenge](https://codebreak
 
 ## Overview
 
-> The 2020 Codebreaker Challenge consists of a series of tasks that are worth a varying amount of points based upon their difficulty. This year, we are releasing the challenge in multiple phases.
->
-> All Phase 1 tasks will become available immediately once the Challenge goes live and can be solved in any order, though there may be some dependencies between tasks. We will post updates about Phase 2 in the weeks to come.
->
-> The point value associated with each task is based on relative difficulty and schools will be ranked according to the total number of points accumulated by their students. It is still recommended to solve tasks in order since the tasks flow with the storyline, but that is not a requirement. Solutions may be submitted at any time for the duration of the Challenge.
+> The 2026 Sydney International Cybersecurity Events have been officially upgraded to ICOA — the International Cyber Olympiad in AI — the World's First AI Security Olympiad. ICOA is a fully independent programme focused on AI security, with 30+ nations and regions accredited. Our dual-track format: Day 1 AI4CTF + Day 2 CTF4AI.
 
 
-## Background 
-
-> Two days ago, a renowned American journalist went missing while on assignment abroad. Although the city where the journalist was last seen has very few surveillance cameras on its streets, local authorities were able to provide us with some surveillance footage taken near the journalist's hotel during the days leading up to the disappearance. From the footage, we see that the journalist was kidnapped from the front of their hotel and taken away in an unmarked van. Unfortunately, we can also observe the kidnappers destroying the hostage's mobile phone making it impossible to track their route via GPS. Locals have also reported drone activity in the area leading up to the event. A criminal organization, well known for using drones in their kidnap-for-ransom schemes, has claimed responsibility for the incident.
->
-> Your mission is to:
-> 1. Locate the missing journalist and hostage takers' current position.
-> 2. Facilitate the recovery of the journalist and take actions to prevent another incident from happening.
->
-> Each task in this year's challenge will require a range of skills. We need you to call upon all of your technical expertise, your intuition, and your common sense to help us locate and rescue the journalist!
->
 > Good luck. We hope you enjoy the challenge! 
