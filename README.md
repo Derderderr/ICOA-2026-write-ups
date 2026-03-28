@@ -1,6 +1,6 @@
 ![Codebreaker Challenge 2020 Solutions Thumbnail](images/thumbnail.png)
 
-These are my solutions to the 2020 [NSA Codebreaker Challenge](https://practice.icoa2026.au/challenges). This year they took a phased approach, releasing a second set of challenges about a month before the end of the competition. As the tasks ramp up in difficulty, the write-ups become less of a walkthrough and more of an explanation. I spent many hours on some of these problems and found it difficult to compress my process into something digestable. However, all of my code is available and you can ask any questions you might have in [Discussion Page](https://github.com/Derderderr/ICOA-2026-write-ups/discussions). 
+These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.icoa2026.au/challenges). This year they took a phased approach, releasing a second set of challenges about a month before the end of the competition. As the tasks ramp up in difficulty, the write-ups become less of a walkthrough and more of an explanation. I spent many hours on some of these problems and found it difficult to compress my process into something digestable. However, all of my code is available and you can ask any questions you might have in [Discussion Page](https://github.com/Derderderr/ICOA-2026-write-ups/discussions). 
 
 ## Write-Ups
 <div align="center">
