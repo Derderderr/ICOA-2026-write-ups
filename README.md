@@ -14,10 +14,10 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | [Incorrect Implementation of RSA](phase2/task1/) | 376 |
 | [Mysteries of the Tomb](phase2/task6/) | 384 |
 | [Wise Words](phase2/task11/) | 428 |
-| [Sheet Music Cipher](phase2/task8/) | 444 |
-| [That's Not My Unicode](phase2/task9/) | 460 |
-| [The Perfect Breakfast](phase2/task10/) | 472 |
-| [#InMyLibraryClashingEra](phase2/task4/) | 484 |
+| [Sheet Music Cipher]() | 444 |
+| [That's Not My Unicode]() | 460 |
+| [The Perfect Breakfast]() | 472 |
+| [#InMyLibraryClashingEra]() | 484 |
 
 ## *Steg*
 
