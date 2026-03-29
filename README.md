@@ -4,25 +4,89 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 
 ## Write-Ups
 <div align="center">
- 
-## *Phase 1*
 
-| Task | Categories | Points |
-|:---- |:---------- |:------ |
-| [Task 1 - What's On the Drive?](phase1/task1/) | [![Categories Badge](images/Computer%20Forensics%2C%20Command%20Line%2C%20Encryption%20Tools-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/10-blue.svg)](https://shields.io/) |
-| [Task 2 - Social Engineering](phase1/task2/) | [![Categories Badge](images/Computer%20Forensics%2C%20Metadata%20Analysis%2C%20Encryption%20Tools-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/40-blue.svg)](https://shields.io/) |
-| [Task 3 - Social Engineering](phase1/task3/) | [![Categories Badge](images/Computer%20Forensics%2C%20Metadata%20Analysis%2C%20Encryption%20Tools-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/150-blue.svg)](https://shields.io/) |
-| [Task 4 - Follow That Car!](phase1/task4/) | [![Categories Badge](images/Graph%20Algorithms%2C%20Computer%20Science-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/500-blue.svg)](https://shields.io/) |
-| [Task 5 - Where Has the Drone Been?](phase1/task5/) | [![Categories Badge](images/Reverse%20Engineering%2C%20Cryptography-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/1300-blue.svg)](https://shields.io/) |
-| [Task 6 - Proof of Life](phase1/task6/) | [![Categories Badge](images/Signals%20Analysis-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/1300-blue.svg)](https://shields.io/) |
+## *Crypto*
 
-## *Phase 2*
+| Task | Points |
+|:---- |:------ |
+| [RSA101](phase2/task7/) | 178 |
+| [Multi-layer](phase2/task5/) | 340 |
+| [Incorrect Implementation of RSA](phase2/task1/) | 376 |
+| [Mysteries of the Tomb](phase2/task6/) | 384 |
+| [Wise Words](phase2/task11/) | 428 |
+| [Sheet Music Cipher](phase2/task8/) | 444 |
+| [That's Not My Unicode](phase2/task9/) | 460 |
+| [The Perfect Breakfast](phase2/task10/) | 472 |
+| [#InMyLibraryClashingEra](phase2/task4/) | 484 |
 
-| Task | Categories | Points |
-|:---- |:---------- |:------ |
-| [Task 7 - Plan for Rescue](phase2/task7/) | [![Categories Badge](images/Reverse%20Engineering-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/500-blue.svg)](https://shields.io/) |
-| [Task 8 - Rescue & Escape (Part 1)](phase2/task8/) | [![Categories Badge](images/Reverse%20Engineering%2C%20Network%20Protocol%20Analysis-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/1700-blue.svg)](https://shields.io/) |
-| [Task 9 - Rescue & Escape (Part 2)](phase2/task9/) | [![Categories Badge](images/Reverse%20Engineering%2C%20Cryptography%2C%20Vulnerability%20Analysis-BrightGreen.svg)](https://shields.io/) | [![Points Badge](images/2500-blue.svg)](https://shields.io/) |
+## *Steg*
+
+| Task | Points |
+|:---- |:------ |
+| [Cheese](...) | 192 |
+| [Dogs Always Know](...) | 408 |
+| [Looking through the sound](...) | 412 |
+| [In the words of Taylor](...) | 436 |
+| [TLSB](...) | 444 |
+| [Nothing to See Here](...) | 456 |
+| [In the fine print](...) | 476 |
+| [Stuck in Your Head](...) | 480 |
+| [Layer Cake](...) | 496 |
+
+## *Misc*
+
+| Task | Points |
+|:---- |:------ |
+| [Rules](...) | 224 |
+| [Survey](...) | 236 |
+| [The Job Interview](...) | 464 |
+| [Old is gold](...) | 488 |
+| [Electric Debugger](...) | 496 |
+| [Perceptions](...) | 500 |
+
+## *Forensics*
+
+| Task | Points |
+|:---- |:------ |
+| [HexedHeaders](...) | 416 |
+| [Keylogger](...) | 436 |
+| [Ping](...) | 436 |
+| [obfuscated script](...) | 456 |
+| [There is always a trace](...) | 468 |
+| [Sound Inversion](...) | 472 |
+
+## *Rev*
+
+| Task | Points |
+|:---- |:------ |
+| [Too Many Flags](...) | 432 |
+| [Xanarto](...) | 480 |
+| [cafe1995](...) | 492 |
+| [Doors 3](...) | 496 |
+| [Doors 2](...) | 496 |
+| [Doors](...) | 496 |
+
+## *OSINT*
+
+| Task | Points |
+|:---- |:------ |
+| [Go git the door](...) | 444 |
+| [Class Above Par](...) | 448 |
+| [Online Presence](...) | 460 |
+| [Happy Birthday Corn Man!](...) | 468 |
+| [Travelling Around](...) | 496 |
+| [Ego is the weakness](...) | 496 |
+
+## *Pwn*
+
+| Task | Points |
+|:---- |:------ |
+| [Echo Chamber](...) | 492 |
+| [Flag Fish](...) | 500 |
+| [fridge](...) | 500 |
+| [Say Shells!](...) | 500 |
+| [Show Me What You GOT!](...) | 500 |
+
 </div>
 
 ## Overview
