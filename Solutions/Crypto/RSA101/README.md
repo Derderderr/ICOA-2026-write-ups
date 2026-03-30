@@ -110,20 +110,20 @@ def decrypt(c, d, n):
 # Mian #
 
 def rsa_attack(n, e, c):
-    print("[*] Trying Wiener's attack...")
+    print("[*] Trying Wiener's attack")
     d = wiener_attack(e, n)
     if d:
-        print("[+] Found d via Wiener!")
+        print("Wiener: ")
         return decrypt(c, d, n)
 
-    print("[*] Trying trial factorization...")
+    print("[*] Trial factorization")
     p, q = trial_factor(n)
     if p:
         print(f"[+] Found factors: p={p}, q={q}")
         d = compute_private_key(p, q, e)
         return decrypt(c, d, n)
 
-    print("[*] Trying FactorDB...")
+    print("[*] FactorDB:")
     res = factordb(n)
     if res:
         p, q = res
@@ -131,7 +131,6 @@ def rsa_attack(n, e, c):
         d = compute_private_key(p, q, e)
         return decrypt(c, d, n)
 
-    print("[-] Attack failed.")
     return None
 
 
