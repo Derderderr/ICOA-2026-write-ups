@@ -146,7 +146,11 @@ if __name__ == "__main__":
 
 ```
 
-and the answer printed is:
+and the result printed is:
+```
+b'PECAN{l4rg3r_pr1m35}'
+```
+so answer is:
 ```
 PECAN{l4rg3r_pr1m35}
 ```
