@@ -68,7 +68,7 @@ echo "7b796f7520676f7420746869737d" | xxd -r -p
 
 {you got this}
 ```
-so the answer is:
+answer:
 ```
 pecan{you got this}
 ```
