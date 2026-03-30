@@ -150,7 +150,7 @@ and the result printed is:
 ```
 b'PECAN{l4rg3r_pr1m35}'
 ```
-so answer is:
+answer:
 ```
 PECAN{l4rg3r_pr1m35}
 ```
