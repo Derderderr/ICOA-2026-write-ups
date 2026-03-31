@@ -7,11 +7,9 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 
 ## *Crypto*
 
-## *Crypto*
-
 | Task | Points |
 |:---- |:------ |
-| [RSA101](Solutions/Crypto/RSA101) | 178 |
+| <span style="background-color:lightgreen"> [RSA101](Solutions/Crypto/RSA101) | 178 |
 | [Multi-layer](Solutions/Crypto/Multi-layer) | 340 |
 | [Incorrect Implementation of RSA](Solutions/Crypto/Incorrect-Implementation-of-RSA) | 372 |
 | [Mysteries of the Tomb](Solutions/Crypto/Mysteries-of-the-Tomb) | 384 |
