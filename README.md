@@ -5,87 +5,142 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 ## Write-Ups
 <div align="center">
 
-## *Crypto*
+<h2><i>Crypto</i></h2>
 
-| Task | Points |
-|:---- |:------ |
-| <span style="background-color:lightgreen"> [RSA101](Solutions/Crypto/RSA101) | 178 |
-| [Multi-layer](Solutions/Crypto/Multi-layer) | 340 |
-| [Incorrect Implementation of RSA](Solutions/Crypto/Incorrect-Implementation-of-RSA) | 372 |
-| [Mysteries of the Tomb](Solutions/Crypto/Mysteries-of-the-Tomb) | 384 |
-| [Wise Words](Solutions/Crypto/Wise-Words) | 428 |
-| [Sheet Music Cipher](Solutions/Crypto/Sheet-Music-Cipher) | 444 |
-| [That's Not My Unicode](Solutions/Crypto/That's-Not-My-Unicode) | 460 |
-| [The Perfect Breakfast](Solutions/Crypto/The-Perfect-Breakfast) | 472 |
-| [#InMyLibraryClashingEra](Solutions/Crypto/#InMyLibraryClashingEra) | 484 |
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Points</th>
+  </tr>
+  <tr style="background-color: lightgreen;">
+    <td><a href="Solutions/Crypto/RSA101">RSA101</a></td>
+    <td>178</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/Multi-layer">Multi-layer</a></td>
+    <td>340</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/Incorrect-Implementation-of-RSA">Incorrect Implementation of RSA</a></td>
+    <td>372</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/Mysteries-of-the-Tomb">Mysteries of the Tomb</a></td>
+    <td>384</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/Wise-Words">Wise Words</a></td>
+    <td>428</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/Sheet-Music-Cipher">Sheet Music Cipher</a></td>
+    <td>444</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/That's-Not-My-Unicode">That's Not My Unicode</a></td>
+    <td>460</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/The-Perfect-Breakfast">The Perfect Breakfast</a></td>
+    <td>472</td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/Crypto/#InMyLibraryClashingEra">#InMyLibraryClashingEra</a></td>
+    <td>484</td>
+  </tr>
+</table>
 
-## *Steg*
+<h2><i>Steg</i></h2>
 
-| Task | Points |
-|:---- |:------ |
-| [Cheese](Solutions/Steg/Cheese) | 192 |
-| [Dogs Always Know](Solutions/Steg/Dogs-Always-Know) | 408 |
-| [Looking through the sound](Solutions/Steg/Looking-through-the-sound) | 412 |
-| [In the words of Taylor](Solutions/Steg/In-the-words-of-Taylor) | 436 |
-| [TLSB](Solutions/Steg/TLSB) | 444 |
-| [Nothing to See Here](Solutions/Steg/Nothing-to-See-Here) | 456 |
-| [In the fine print](Solutions/Steg/In-the-fine-print) | 476 |
-| [Stuck in Your Head](Solutions/Steg/Stuck-in-Your-Head) | 480 |
-| [Layer Cake](Solutions/Steg/Layer-Cake) | 496 |
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Points</th>
+  </tr>
+  <tr><td><a href="Solutions/Steg/Cheese">Cheese</a></td><td>192</td></tr>
+  <tr><td><a href="Solutions/Steg/Dogs-Always-Know">Dogs Always Know</a></td><td>408</td></tr>
+  <tr><td><a href="Solutions/Steg/Looking-through-the-sound">Looking through the sound</a></td><td>412</td></tr>
+  <tr><td><a href="Solutions/Steg/In-the-words-of-Taylor">In the words of Taylor</a></td><td>436</td></tr>
+  <tr><td><a href="Solutions/Steg/TLSB">TLSB</a></td><td>444</td></tr>
+  <tr><td><a href="Solutions/Steg/Nothing-to-See-Here">Nothing to See Here</a></td><td>456</td></tr>
+  <tr><td><a href="Solutions/Steg/In-the-fine-print">In the fine print</a></td><td>476</td></tr>
+  <tr><td><a href="Solutions/Steg/Stuck-in-Your-Head">Stuck in Your Head</a></td><td>480</td></tr>
+  <tr><td><a href="Solutions/Steg/Layer-Cake">Layer Cake</a></td><td>496</td></tr>
+</table>
 
-## *Misc*
+<h2><i>Misc</i></h2>
 
-| Task | Points |
-|:---- |:------ |
-| [Rules](Solutions/Misc/Rules) | 224 |
-| [Survey](Solutions/Misc/Survey) | 236 |
-| [The Job Interview](Solutions/Misc/The-Job-Interview) | 464 |
-| [Old is gold](Solutions/Misc/Old-is-gold) | 488 |
-| [Electric Debugger](Solutions/Misc/Electric-Debugger) | 496 |
-| [Perceptions](Solutions/Misc/Perceptions) | 500 |
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Points</th>
+  </tr>
+  <tr><td><a href="Solutions/Misc/Rules">Rules</a></td><td>224</td></tr>
+  <tr><td><a href="Solutions/Misc/Survey">Survey</a></td><td>236</td></tr>
+  <tr><td><a href="Solutions/Misc/The-Job-Interview">The Job Interview</a></td><td>464</td></tr>
+  <tr><td><a href="Solutions/Misc/Old-is-gold">Old is gold</a></td><td>488</td></tr>
+  <tr><td><a href="Solutions/Misc/Electric-Debugger">Electric Debugger</a></td><td>496</td></tr>
+  <tr><td><a href="Solutions/Misc/Perceptions">Perceptions</a></td><td>500</td></tr>
+</table>
 
-## *Forensics*
+<h2><i>Forensics</i></h2>
 
-| Task | Points |
-|:---- |:------ |
-| [HexedHeaders](Solutions/Forensics/HexedHeaders) | 416 |
-| [Keylogger](Solutions/Forensics/Keylogger) | 436 |
-| [Ping](Solutions/Forensics/Ping) | 436 |
-| [obfuscated script](Solutions/Forensics/obfuscated-script) | 456 |
-| [There is always a trace](Solutions/Forensics/There-is-always-a-trace) | 468 |
-| [Sound Inversion](Solutions/Forensics/Sound-Inversion) | 472 |
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Points</th>
+  </tr>
+  <tr><td><a href="Solutions/Forensics/HexedHeaders">HexedHeaders</a></td><td>416</td></tr>
+  <tr><td><a href="Solutions/Forensics/Keylogger">Keylogger</a></td><td>436</td></tr>
+  <tr><td><a href="Solutions/Forensics/Ping">Ping</a></td><td>436</td></tr>
+  <tr><td><a href="Solutions/Forensics/obfuscated-script">obfuscated script</a></td><td>456</td></tr>
+  <tr><td><a href="Solutions/Forensics/There-is-always-a-trace">There is always a trace</a></td><td>468</td></tr>
+  <tr><td><a href="Solutions/Forensics/Sound-Inversion">Sound Inversion</a></td><td>472</td></tr>
+</table>
 
-## *Rev*
+<h2><i>Rev</i></h2>
 
-| Task | Points |
-|:---- |:------ |
-| [Too Many Flags](Solutions/Rev/Too-Many-Flags) | 432 |
-| [Xanarto](Solutions/Rev/Xanarto) | 480 |
-| [cafe1995](Solutions/Rev/cafe1995) | 492 |
-| [Doors 3](Solutions/Rev/Doors-3) | 496 |
-| [Doors 2](Solutions/Rev/Doors-2) | 496 |
-| [Doors](Solutions/Rev/Doors) | 496 |
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Points</th>
+  </tr>
+  <tr><td><a href="Solutions/Rev/Too-Many-Flags">Too Many Flags</a></td><td>432</td></tr>
+  <tr><td><a href="Solutions/Rev/Xanarto">Xanarto</a></td><td>480</td></tr>
+  <tr><td><a href="Solutions/Rev/cafe1995">cafe1995</a></td><td>492</td></tr>
+  <tr><td><a href="Solutions/Rev/Doors-3">Doors 3</a></td><td>496</td></tr>
+  <tr><td><a href="Solutions/Rev/Doors-2">Doors 2</a></td><td>496</td></tr>
+  <tr><td><a href="Solutions/Rev/Doors">Doors</a></td><td>496</td></tr>
+</table>
 
-## *OSINT*
+<h2><i>OSINT</i></h2>
 
-| Task | Points |
-|:---- |:------ |
-| [Go git the door](Solutions/OSINT/Go-git-the-door) | 444 |
-| [Class Above Par](Solutions/OSINT/Class-Above-Par) | 448 |
-| [Online Presence](Solutions/OSINT/Online-Presence) | 460 |
-| [Happy Birthday Corn Man!](Solutions/OSINT/Happy-Birthday-Corn-Man) | 468 |
-| [Travelling Around](Solutions/OSINT/Travelling-Around) | 496 |
-| [Ego is the weakness](Solutions/OSINT/Ego-is-the-weakness) | 496 |
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Points</th>
+  </tr>
+  <tr><td><a href="Solutions/OSINT/Go-git-the-door">Go git the door</a></td><td>444</td></tr>
+  <tr><td><a href="Solutions/OSINT/Class-Above-Par">Class Above Par</a></td><td>448</td></tr>
+  <tr><td><a href="Solutions/OSINT/Online-Presence">Online Presence</a></td><td>460</td></tr>
+  <tr><td><a href="Solutions/OSINT/Happy-Birthday-Corn-Man">Happy Birthday Corn Man!</a></td><td>468</td></tr>
+  <tr><td><a href="Solutions/OSINT/Travelling-Around">Travelling Around</a></td><td>496</td></tr>
+  <tr><td><a href="Solutions/OSINT/Ego-is-the-weakness">Ego is the weakness</a></td><td>496</td></tr>
+</table>
 
-## *Pwn*
+<h2><i>Pwn</i></h2>
 
-| Task | Points |
-|:---- |:------ |
-| [Echo Chamber](Solutions/Pwn/Echo-Chamber) | 492 |
-| [Flag Fish](Solutions/Pwn/Flag-Fish) | 500 |
-| [fridge](Solutions/Pwn/fridge) | 500 |
-| [Say Shells!](Solutions/Pwn/Say-Shells) | 500 |
-| [Show Me What You GOT!](Solutions/Pwn/Show-Me-What-You-GOT) | 500 |
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Points</th>
+  </tr>
+  <tr><td><a href="Solutions/Pwn/Echo-Chamber">Echo Chamber</a></td><td>492</td></tr>
+  <tr><td><a href="Solutions/Pwn/Flag-Fish">Flag Fish</a></td><td>500</td></tr>
+  <tr><td><a href="Solutions/Pwn/fridge">fridge</a></td><td>500</td></tr>
+  <tr><td><a href="Solutions/Pwn/Say-Shells">Say Shells!</a></td><td>500</td></tr>
+  <tr><td><a href="Solutions/Pwn/Show-Me-What-You-GOT">Show Me What You GOT!</a></td><td>500</td></tr>
+</table>
 
 </div>
 
