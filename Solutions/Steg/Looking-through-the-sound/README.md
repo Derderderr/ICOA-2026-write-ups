@@ -2,7 +2,7 @@
 
 We recieve a .wav file, and the prompt tells us to look through the noise, so open the file with Audacity and switch to the Spectrogram view, we see:
 
-![Looking-through-the-sound_1](images/Looking-through-the-sound_1.png)
+![Looking-through-the-sound_1](https://github.com/Derderderr/ICOA-2026-write-ups/blob/main/images/Looking-through-the-sound_1.png)
 
 answer:
 ```
