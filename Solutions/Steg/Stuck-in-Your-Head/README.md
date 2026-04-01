@@ -1,7 +1,7 @@
 ## Solution
 
 We got rickrolled, listen to the .mp3 file, notice there's the classical morse code sound inside. Open it with Audacity and switch to the spectrom view, 
-we can see its structure:
+we can see its structure (I have set the set the min and max frequency to 900 - 950 in the spectrum setting to have a clearer view:
 
 ![Spectrum](Stuck-in-Your-Head_1)
 
