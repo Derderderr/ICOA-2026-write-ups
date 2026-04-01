@@ -24,8 +24,8 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | 🟩 [Cheese](Solutions/Steg/Cheese) | 192 |
 | 🟩 [Dogs Always Know](Solutions/Steg/Dogs-Always-Know) | 408 |
 | 🟩 [Looking through the sound](Solutions/Steg/Looking-through-the-sound) | 412 |
-| [In the words of Taylor](Solutions/Steg/In-the-words-of-Taylor) | 436 |
-| [TLSB](Solutions/Steg/TLSB) | 444 |
+| 🟩 [In the words of Taylor](Solutions/Steg/In-the-words-of-Taylor) | 436 |
+| 🟩 [TLSB](Solutions/Steg/TLSB) | 444 |
 | [Nothing to See Here](Solutions/Steg/Nothing-to-See-Here) | 456 |
 | [In the fine print](Solutions/Steg/In-the-fine-print) | 476 |
 | [Stuck in Your Head](Solutions/Steg/Stuck-in-Your-Head) | 480 |
