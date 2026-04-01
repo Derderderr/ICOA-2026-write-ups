@@ -6,11 +6,11 @@ So far, the inscription at the tablet's apex reads: "To unveil the truth, read t
 ```
 Opening the flag.txt gives some symbols that resembles the shape of the pyramid:
 
-![flag.txt](images/Crypto/Mysteries-of-the-Tomb_1.png)
+![flag.txt](images/Mysteries-of-the-Tomb_1.png)
 
 and the notes.txt give a letter corresponding to the symbol:
 
-![notes.txt](images/Crypto/Mysteries-of-the-Tomb_2.png)
+![notes.txt](images/Mysteries-of-the-Tomb_2.png)
 
 From the clue, reading from the top to bottom, and left to right, the corresponding letter would be:
 ```
