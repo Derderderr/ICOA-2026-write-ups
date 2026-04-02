@@ -3,7 +3,7 @@
 We got rickrolled, listen to the .mp3 file, notice there's the classical morse code sound inside. Open it with Audacity and switch to the spectrom view, 
 we can see its structure (I have set the set the min and max frequency to 900 - 950 in the spectrum setting to have a clearer view:
 
-![Spectrum](Stuck-in-Your-Head_1)
+![Spectrum](https://github.com/Derderderr/ICOA-2026-write-ups/blob/main/images/Stuck-in-Your-Head_1.png)
 
 Notice the spacing, which indicates the seperation between numbers, copying it down and transform to ascii numbers then into plain text:
 ```
