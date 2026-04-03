@@ -56,7 +56,7 @@ img.save("out.png")
 ```
 
 Running it gives the image that we wanted:
-![output]([The-Job-Interview_1.png](https://github.com/Derderderr/ICOA-2026-write-ups/blob/main/images/The-Job-Interview_1.png))
+![output](https://github.com/Derderderr/ICOA-2026-write-ups/blob/main/images/The-Job-Interview_1.png)
 
 Answer:
 ```
