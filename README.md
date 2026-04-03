@@ -12,7 +12,7 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | 🟩 [Multi-layer](Solutions/Crypto/Multi-layer) | 340 |
 | 🟩 [Incorrect Implementation of RSA](Solutions/Crypto/Incorrect-Implementation-of-RSA) | 372 |
 | 🟩 [Mysteries of the Tomb](Solutions/Crypto/Mysteries-of-the-Tomb) | 384 |
-| 🟩 [Wise Words](Solutions/Crypto/Wise-Words) | 428 |
+| 🟪 [Wise Words](Solutions/Crypto/Wise-Words) | 428 |
 | [Sheet Music Cipher](Solutions/Crypto/Sheet-Music-Cipher) | 444 |
 | [That's Not My Unicode](Solutions/Crypto/That's-Not-My-Unicode) | 460 |
 | [The Perfect Breakfast](Solutions/Crypto/The-Perfect-Breakfast) | 472 |
@@ -34,9 +34,9 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 ## *Misc*
 | Task | Points |
 |:---- |:------ |
-| [Rules](Solutions/Misc/Rules) | 224 |
-| [Survey](Solutions/Misc/Survey) | 236 |
-| [The Job Interview](Solutions/Misc/The-Job-Interview) | 464 |
+| 🟪 [Rules](Solutions/Misc/Rules) | 224 |
+| 🟪 [Survey](Solutions/Misc/Survey) | 236 |
+| 🟩 [The Job Interview](Solutions/Misc/The-Job-Interview) | 464 |
 | [Old is gold](Solutions/Misc/Old-is-gold) | 488 |
 | [Electric Debugger](Solutions/Misc/Electric-Debugger) | 496 |
 | [Perceptions](Solutions/Misc/Perceptions) | 500 |
