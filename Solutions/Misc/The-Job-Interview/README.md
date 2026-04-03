@@ -56,7 +56,7 @@ img.save("out.png")
 ```
 
 Running it gives the image that we wanted:
-![output](The-Job-Interview_1)
+![output](The-Job-Interview_1.png)
 
 Answer:
 ```
