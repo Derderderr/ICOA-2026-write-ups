@@ -44,12 +44,12 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 ## *Forensics*
 | Task | Points |
 |:---- |:------ |
-| [HexedHeaders](Solutions/Forensics/HexedHeaders) | 416 |
-| [Keylogger](Solutions/Forensics/Keylogger) | 436 |
-| [Ping](Solutions/Forensics/Ping) | 436 |
-| [obfuscated script](Solutions/Forensics/obfuscated-script) | 456 |
-| [There is always a trace](Solutions/Forensics/There-is-always-a-trace) | 468 |
-| [Sound Inversion](Solutions/Forensics/Sound-Inversion) | 472 |
+| 🟩 [HexedHeaders](Solutions/Forensics/HexedHeaders) | 416 |
+| 🟩 [Keylogger](Solutions/Forensics/Keylogger) | 436 |
+| 🟩 [Ping](Solutions/Forensics/Ping) | 436 |
+| 🟩 [obfuscated script](Solutions/Forensics/obfuscated-script) | 456 |
+| 🟩 [There is always a trace](Solutions/Forensics/There-is-always-a-trace) | 468 |
+| 🟩 [Sound Inversion](Solutions/Forensics/Sound-Inversion) | 472 |
 
 ## *Rev*
 | Task | Points |
