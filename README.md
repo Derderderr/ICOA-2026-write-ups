@@ -18,6 +18,8 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | [The Perfect Breakfast](Solutions/Crypto/The-Perfect-Breakfast) | 472 |
 | [#InMyLibraryClashingEra](Solutions/Crypto/#InMyLibraryClashingEra) | 484 |
 
+
+
 ## *Steg*
 | Task | Points |
 |:---- |:------ |
@@ -31,6 +33,8 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | 🟩 [Stuck in Your Head](Solutions/Steg/Stuck-in-Your-Head) | 480 |
 | [Layer Cake](Solutions/Steg/Layer-Cake) | 496 |
 
+
+
 ## *Misc*
 | Task | Points |
 |:---- |:------ |
@@ -40,6 +44,8 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | [Old is gold](Solutions/Misc/Old-is-gold) | 488 |
 | [Electric Debugger](Solutions/Misc/Electric-Debugger) | 496 |
 | [Perceptions](Solutions/Misc/Perceptions) | 500 |
+
+
 
 ## *Forensics*
 | Task | Points |
@@ -51,6 +57,8 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | 🟩 [There is always a trace](Solutions/Forensics/There-is-always-a-trace) | 468 |
 | 🟩 [Sound Inversion](Solutions/Forensics/Sound-Inversion) | 472 |
 
+
+
 ## *Rev*
 | Task | Points |
 |:---- |:------ |
@@ -61,6 +69,8 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | [Doors 2](Solutions/Rev/Doors-2) | 496 |
 | [Doors](Solutions/Rev/Doors) | 496 |
 
+
+
 ## *OSINT*
 | Task | Points |
 |:---- |:------ |
@@ -70,6 +80,8 @@ These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.i
 | [Happy Birthday Corn Man!](Solutions/OSINT/Happy-Birthday-Corn-Man) | 468 |
 | [Travelling Around](Solutions/OSINT/Travelling-Around) | 496 |
 | [Ego is the weakness](Solutions/OSINT/Ego-is-the-weakness) | 496 |
+
+
 
 ## *Pwn*
 | Task | Points |
