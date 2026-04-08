@@ -103,7 +103,8 @@ for width in range(16, 512, 32):
   img.save(f"s32_screen_{width}.png")
 ```
 in the width of 64, we find some useful image, since it looks like the head of the flag upside down:
-![attempt_4](https://github.com/Derderderr/ICOA-2026-write-ups/blob/main/images/Threre-is-always-a-trace_3.png)
+
+![attempt_3](https://github.com/Derderderr/ICOA-2026-write-ups/blob/main/images/Threre-is-always-a-trace_3.png)
 
 using this script to flip the image then ressemble the parts we can get the flag:
 ```
