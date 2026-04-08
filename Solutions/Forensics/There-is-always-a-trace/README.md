@@ -76,6 +76,7 @@ img = img.resize((width * 2, height * 2), Image.NEAREST)
 img.save("s32_screen.png")
 ```
 opening the image and we can see a lot of red areas, which indicates the original data is 0,0,0,0:
+
 ![attempt_1](https://github.com/Derderderr/ICOA-2026-write-ups/blob/main/images/Threre-is-always-a-trace_1.png)
 
 remove these data:
