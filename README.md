@@ -16,8 +16,8 @@ There have been some questions that were removed, and the files of some challeng
 | 🟩 [Incorrect Implementation of RSA](Solutions/Crypto/Incorrect-Implementation-of-RSA) | 372 |
 | 🟩 [Mysteries of the Tomb](Solutions/Crypto/Mysteries-of-the-Tomb) | 384 |
 | 🟪 [Wise Words](Solutions/Crypto/Wise-Words) | 428 |
-| [Sheet Music Cipher](Solutions/Crypto/Sheet-Music-Cipher) | 444 |
-| [That's Not My Unicode](Solutions/Crypto/That's-Not-My-Unicode) | 460 |
+| 🟩 [Sheet Music Cipher](Solutions/Crypto/Sheet-Music-Cipher) | 444 |
+| 🟩 [That's Not My Unicode](Solutions/Crypto/That's-Not-My-Unicode) | 460 |
 | [The Perfect Breakfast](Solutions/Crypto/The-Perfect-Breakfast) | 472 |
 | [#InMyLibraryClashingEra](Solutions/Crypto/#InMyLibraryClashingEra) | 484 |
 
@@ -78,12 +78,7 @@ There have been some questions that were removed, and the files of some challeng
 | Task | Points |
 |:---- |:------ |
 | [Go git the door](Solutions/OSINT/Go-git-the-door) | 444 |
-| [Class Above Par](Solutions/OSINT/Class-Above-Par) | 448 |
 | [Online Presence](Solutions/OSINT/Online-Presence) | 460 |
-| [Happy Birthday Corn Man!](Solutions/OSINT/Happy-Birthday-Corn-Man) | 468 |
-| [Travelling Around](Solutions/OSINT/Travelling-Around) | 496 |
-| [Ego is the weakness](Solutions/OSINT/Ego-is-the-weakness) | 496 |
-
 
 
 ## *Pwn*
