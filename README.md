@@ -37,19 +37,6 @@ There have been some questions that were removed, and the files of some challeng
 | [Layer Cake](Solutions/Steg/Layer-Cake) | 496 |
 
 
-
-## *Misc*
-| Task | Points |
-|:---- |:------ |
-| 🟪 [Rules](Solutions/Misc/Rules) | 224 |
-| 🟪 [Survey](Solutions/Misc/Survey) | 236 |
-| 🟩 [The Job Interview](Solutions/Misc/The-Job-Interview) | 464 |
-| [Old is gold](Solutions/Misc/Old-is-gold) | 488 |
-| [Electric Debugger](Solutions/Misc/Electric-Debugger) | 496 |
-| [Perceptions](Solutions/Misc/Perceptions) | 500 |
-
-
-
 ## *Forensics*
 | Task | Points |
 |:---- |:------ |
@@ -89,6 +76,12 @@ There have been some questions that were removed, and the files of some challeng
 | [fridge](Solutions/Pwn/fridge) | 500 |
 | [Say Shells!](Solutions/Pwn/Say-Shells) | 500 |
 | [Show Me What You GOT!](Solutions/Pwn/Show-Me-What-You-GOT) | 500 |
+
+## *Removed* (Most of them are MISC and OSINT, which I have not taken my time to compelte hence a lot is missing)
+| Task | Points |
+|:---- |:------ |
+| 🟩 [The Job Interview](Solutions/Misc/The-Job-Interview) | 464 |
+
 
 </div>
 
