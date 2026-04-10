@@ -2,6 +2,9 @@
 
 These are my solutions to the 2026 [ICOA Practice Challenges](https://practice.icoa2026.au/challenges). I still have a long way to go write the solutions, where the written ones will be marked by 🟩, and 🟪 indicates there's a problem to the challenge or as a partial solve. Any questions or suggestions and be disscused in the [Discussion Page](https://github.com/Derderderr/ICOA-2026-write-ups/discussions). 
 
+## Notice:
+There have been some questions that were removed, and the files of some challenges are also missing for some reason
+
 ## Write-Ups
 <div align="center">
 
