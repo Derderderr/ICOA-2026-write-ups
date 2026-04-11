@@ -8,20 +8,26 @@ crypto challenge):
 By corresponding the symbols, we can get the sequence to be:
 ```
 99 71 86 106 89 87 53 55 86 87 52 120 89 122
-66 107 77 49 56 48 109 82 102 81 122 69 49 100 68 78 121
+66 107 77 49 56 48 98 109 82 102 81 122 69 49 100 68 78 121
 89 122 70 104 98 105 66 102 82 110 86 117 102 81 61 61
 ```
 the last 2 '61' correspond to '=' in ascii, which gives away the next layer is base64 encoded, so:
 ```
-99 71 86 106 89 87 53 55 86 87 52 102 89
-66 107 77 49 56 48 109 82 102 81 122 69 49 100 68 78 121
+99 71 86 106 89 87 53 55 86 87 52 120 89 122
+66 107 77 49 56 48 98 109 82 102 81 122 69 49 100 68 78 121
 89 122 70 104 98 105 66 102 82 110 86 117 102 81 61 61
 
 -->
 
-cGVjYW57VW4fYBkM180mRfQzE1dDNyYzFhbiBfRnVufQ==
+cGVjYW57VW4xYzBkM180bmRfQzE1dDNyYzFhbiBfRnVufQ==
 
 -->
 
+pecan{Un1c0d3_4nd_C15t3rc1an _Fun}
 
+```
+
+answer:
+```
+pecan{Un1c0d3_4nd_C15t3rc1an _Fun}
 ```
